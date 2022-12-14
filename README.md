@@ -16,6 +16,10 @@
 
     As determined by the data set analysis over 90% of the 2017 Returns were in the "green", basically 11 out of 12 tickers had positive returns.  By the time 2018 arrived the situation had reversed and only 2 out of 12 tickers had positive returns. These results can provide historical information for a particular stock based on daily volume. 
 
+<img width="246" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/14171474/207716693-5583aabe-25c2-4477-9a3c-533989e73b90.png">
+
+<img width="246" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/14171474/207716834-19bdbe99-52c9-4e10-91b1-0cca87b99f1b.png">
+
 
 ## SUMMARY
 
